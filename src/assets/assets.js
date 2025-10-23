@@ -49,7 +49,6 @@ import addIcon from './addIcon.png'
 import pic_2 from './pic_2.png'
 import pic_3 from './pic_3.png'
 import iceCream_pics from './iceCream_pics.png'
-import cornSalad from './cornSalad.png'
 import instaS_logo from './instaS_logo.png'
 import pasta_logo from './pasta_logo.png'
 import cake_logo from './cake_logo.png'
@@ -101,7 +100,6 @@ export const assets = {
     pic_2,
     pic_3,
     iceCream_pics,
-    cornSalad,
     instaS_logo,
     pasta_logo,
     cake_logo,
@@ -417,14 +415,7 @@ export const food_list = [
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Salad"
     },
-     {
-        _id: "34",
-        name: "Corn Salad",
-        image: cornSalad,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
-    },
+   
     {
         _id: "35",
         name: "Avocado Salad",
